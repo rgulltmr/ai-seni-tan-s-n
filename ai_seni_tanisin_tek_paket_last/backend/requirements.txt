@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+reportlab
+qrcode[pil]
+pydantic
+python-dotenv
